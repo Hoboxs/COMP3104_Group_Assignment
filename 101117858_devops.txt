@@ -1,0 +1,5 @@
+COMP3104 - DevOps is taught by Pritesh Patel.
+
+The course started on Tuesday September 8th, 2020 and will end Friday December 18th, 2020.
+
+The course currently focuses on Git.
