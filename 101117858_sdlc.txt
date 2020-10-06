@@ -1,0 +1,7 @@
+The Importance of Learning DevOps:
+
+Creates shorter development cycles which in turn creates faster innovation
+
+Reduces implementation failure, reflections and recovery time
+
+Reduces costs and IT headcount
