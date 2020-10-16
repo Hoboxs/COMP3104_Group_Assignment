@@ -1,5 +1,21 @@
 # COMP3104_Group_Assignment
 
+Corradina Dinatale (100645103):
+
+Added 100645103_gb.txt file.
+Added 100645103_devops.txt file.
+Added 100645103_sdlc.txt file.
+
+Added title to GB text file
+Added title to DevOps text file
+Added title to sdlc text file
+
+Added information about George Brown College
+Added information about DevOps course
+Added details about the importance of DevOps
+
+Updated ReadMe file.
+
 
 Added the 101181089_gb.txt file
 Added the 101181089_devops.txt file
